@@ -1,3 +1,4 @@
 # DGAEMVN
-PyTorch implementation of DGAEMVN: Enhancing Community Detection through Dual Graph
-Auto-Encoder with Multi-View Node Representations
+PyTorch implementation of A Novel GAE Framework for Community Detection: Leveraging
+Attribute Similarity and Graph Topology through Collaborative
+Learning
